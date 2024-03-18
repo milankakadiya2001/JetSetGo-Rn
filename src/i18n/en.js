@@ -1,0 +1,20 @@
+export default {
+  home: 'Home',
+  onboardingTitle: 'Securely Book Your Flight Tickets',
+  onboardingDesc:
+    "Welcome to JetSetGo, the cutting-edge flight booking app that takes your travel experience to new heights! Whether you're a frequent flyer or planning your dream vacation, JetSetGo is designed to simplify and enhance every aspect of your journey.",
+  getStarted: 'Get Started',
+  somethingWentWrong: 'Something went wrong',
+  jetSetGo: 'JetSetGo',
+  price: 'Price',
+  lowToHigh: 'Low to High',
+  highToLow: 'High to Low',
+  airLine: 'Airline',
+  apply: 'Apply',
+  filter: 'Filter',
+  clear: 'Clear',
+  flightNumber: 'Flight Number',
+  availableSeats: 'Available Seats',
+  gateNo: 'Gate No',
+  noDataFound: 'No flight found 😔',
+};
